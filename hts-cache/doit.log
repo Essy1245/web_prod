@@ -1,8 +1,0 @@
--qwC2%Pns2u1%s%uN0%I0p3DaK0H0%kQA25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%l "en, *" https://zestful-plans-059759.framer.app/ -O1 "C:\Users\sungc\Downloads\httrack_x64-noinst-3.49.2\Exports\Framer initial Test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-File generated automatically on Thu, 01 Aug 2024 16:15:12, do NOT edit
-
-To update a mirror, just launch httrack without any parameters
-The existing cache will be used (and modified)
-To have other options, retype all parameters and launch HTTrack
-To continue an interrupted mirror, just launch httrack without any parameters
-
